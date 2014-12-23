@@ -1,0 +1,1 @@
+/Users/petehouston/Development/projects/learn/laravel/app/views/posts/show.blade.php
